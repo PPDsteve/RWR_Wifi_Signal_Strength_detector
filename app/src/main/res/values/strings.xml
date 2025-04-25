@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RWR wifi检测 1.0</string>
+    <string name="author_info">B站：PPDsteve</string>
+    <string name="menu_about">关于</string>
+    <string name="about_app_opensource">APP 已经完全开源在 Git 上面。</string>
+    <string name="about_app_no_ads">这是我自己在学习 Android Studio 的代码，所有东西都是免费的。</string>
+    <string name="about_app_antifraud_tip">如果你在哪里看到有广告和收费版本，那只能证明你需要下载国家反诈 APP。如果想联系我,举报BUG,修改建议，可以B站搜索PPDsteve或者加我QQ群347340188。感谢战雷玩家的支持</string>
+
+    <string name="permission_denied_required">位置权限被拒绝。获取 Wi-Fi 信息需要该权限。</string>
+    <string name="wifi_not_connected">请同时开启GPS和WIFI，才能检测</string>
+    <string name="rwr_activating">正在启动 RWR...</string>
+    <string name="rwr_disabled">RWR 已禁用</string>
+    <string name="rwr_ready_prompt">RWR 就绪</string>
+    <string name="loading_sounds">正在加载声音...</string>
+    <string name="sound_load_error">错误：无法加载声音</string>
+    <string name="wifi_error">获取 Wi-Fi 信息出错</string>
+    <string name="wifi_connected_format">已连接: %1$s\nRSSI: %2$d dBm</string>
+    <string name="permission_prompt">需要位置权限</string>
+    <string name="rwr_disabled_permission">RWR 已禁用 - 需要权限</string>
+    <string name="sound_resource_error">错误：声音文件丢失！</string>
+
+</resources>
